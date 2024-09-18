@@ -4,5 +4,6 @@
 ## 玩法
 在場上會出現圓圈，只要圓圈消失的瞬間判斷點有疊在圓圈上面就算得分，反之不加分。  
 在滑鼠模式中，滑鼠位置就等於判斷點位置。  
-![image](https://github.com/PaidaAn/small-OSU/picture/主遊戲畫面.png)
+白色小圓圈即為判斷點，紫色大圓圈是得分區。  
+![image](https://github.com/PaidaAn/small-OSU/blob/main/picture/主遊戲畫面.png)  
 攝影機模式的判斷點位置是雙手在畫面中的位置，最多兩個。
