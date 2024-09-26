@@ -12,7 +12,8 @@
 <img src="https://github.com/PaidaAn/small-OSU/blob/main/picture/主遊戲畫面.png" width="50%" height="50%">  
 
 ![image](https://github.com/PaidaAn/small-OSU/blob/5e54965c6006ee109b3cfffc865ac54a636577f4/gif/%E9%81%8A%E7%8E%A901.gif)  
-攝影機模式的判斷點位置是雙手在畫面中的位置，最多兩個。
+攝影機模式的判斷點位置是雙手在畫面中的位置，最多兩個。  
+![image](https://github.com/PaidaAn/small-OSU/blob/9bb87ed81ae9132c8b9f4f0fe3828e35150128aa/gif/%E9%81%8A%E7%8E%A902.gif)  
 
 ## 編輯模式
 <img src="https://github.com/PaidaAn/small-OSU/blob/main/picture/地圖編輯器.png" width="50%" height="50%">  
